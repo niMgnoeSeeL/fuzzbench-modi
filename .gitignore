@@ -47,3 +47,8 @@ docker/generated.mk
 
 # Diff files from matplotlib
 *-failed-diff.png
+
+
+# Seongmin's experiment result dir
+results-gb-vs-bb/
+results-issta/
